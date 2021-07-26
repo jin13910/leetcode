@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/config/config-file_HexCodeFormatter.xml" />
+        <option name="selectedJavaProfile" value="HexCloud Convention" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1601575678687" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/config/config-file_HexCodeFormatter.xml" />
+        <option name="name" value="hexCloudFormatter" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/config/config-file_HexCodeFormatter.xml" />
+        <option name="selectedJavaProfile" value="HexCloud Convention" />
+      </Settings>
+    </option>
+  </component>
+</project>
